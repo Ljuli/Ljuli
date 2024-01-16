@@ -1,6 +1,8 @@
 ### Olá! Eu sou a Júlia Lima
 
-- 🌱 Estudando engenharia da computação; java 
+- 🌱 Cursando Engenharia da Computação
+- Estudando Algoritmos e lógica de programação, Java;
+ Banco de dados e SQL, Front-end - HTML, CSS, JavaScript, react e +
 - 📫 Contate-me no e-mail: lima.ju97@gmail.com
 - 😄 Pronouns: ela/dela
 
